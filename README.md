@@ -29,4 +29,23 @@ The game allows the user to play against the computer with score tracking.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rock-paper-scissors-game.git
+git clone https://github.com/Vijay27/rock_game.git
+
+2.Open the project folder:
+cd rock_game
+
+3.Run the Python file:
+python rock_game.py
+---
+
+**## 📂 Project Structure**
+rock-paper-scissors-game/
+│
+├── rock_game.py
+└── README.md
+
+**🎯 Future Improvements**
+Add replay option
+Create a GUI version
+Add multiplayer mode
+Save scores to a file
