@@ -1,4 +1,4 @@
-🪨📄✂️ Rock‑Paper‑Scissors (Python Console Game)
+**#🪨📄✂️ Rock‑Paper‑Scissors (Python Console Game)**
 A simple and fun Rock‑Paper‑Scissors game written in Python, featuring:
 
 🎮 Interactive console gameplay
@@ -9,7 +9,7 @@ A simple and fun Rock‑Paper‑Scissors game written in Python, featuring:
 
 🔁 Replay loop (play as many rounds as you want)
 
-🚀 Features
+**🚀 Features**
 User Input — Choose between rock, paper, or scissors
 
 Computer AI — Randomly selects its move
@@ -20,14 +20,14 @@ Replay Support — Play multiple rounds in one session
 
 Input Validation — Prevents invalid choices
 
-📦 Requirements
+**📦 Requirements**
 This project uses only Python’s built‑in libraries.
 
 Python 3.x
 
 No external dependencies
 
-▶️ How to Run
+**▶️ How to Run**
 Clone the repository:
 
 bash
@@ -40,7 +40,7 @@ Run the game:
 
 bash
 python main.py
-🧠 How It Works
+**🧠 How It Works**
 The game prompts the user to choose rock, paper, or scissors.
 
 The computer randomly selects one of the three options.
@@ -51,12 +51,12 @@ Scores are updated after each round.
 
 The user can choose to play again or exit.
 
-📁 Project Structure
+**📁 Project Structure**
 Code
 📦 rock-paper-scissors
  ┣ 📜 main.py
  ┣ 📜 README.md
-📝 Example Output
+**📝 Example Output**
 Code
 Welcome to Rock-Paper-Scissors with Scores! 🎮
 Choose rock, paper, or scissors: rock
